@@ -30,6 +30,11 @@ or <a href="mailto:ajinendra05@gmail.com"><b>email</b></a> me
 
 </div>
 <br>
+Take a peek at 
+<a href="https://ajinendra05.42web.io/"><b>My Portfolio</b></a>
+
+<br>
+<br>
 <br>
 <br>
 <br>

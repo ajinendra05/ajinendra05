@@ -5,7 +5,7 @@
 <div align="center" width="50">
 
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=4F7942&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ajinendra+Rajpoot;aka+Azzi;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;MOBAPP+Developer,;Flutter+Developer,;Computer+Science+Student,;Game+Developer,;Engineer,;Active+Learner" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=4F7942&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ajinendra+Rajpoot;aka+Azzi;Welcome+to+my+profile!;Description+of+myself%3A;MOBAPP+Developer,;Flutter+Developer,;Computer+Science+Student,;Game+Developer,;Engineer,;Active+Learner" alt="Typing SVG" /></a>
   </div>
   
   <p align="center">
@@ -22,7 +22,7 @@
 <div align="center">
 
 Connecting the dots and crafting digital wonders! <br>
-Full-stack developer with a passion for building meaningful connections through code. Let's collaborate and turn ideas into reality. <br>
+Application developer with a passion for building meaningful connections through code. Let's collaborate and turn ideas into reality. <br>
 Ask me anything <a href="https://github.com/ajinendra05/ajinendra05/issues/new"><b>here</b></a><br>
 or <a href="mailto:ajinendra05@gmail.com"><b>email</b></a> me
 

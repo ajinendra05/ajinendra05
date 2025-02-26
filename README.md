@@ -8,11 +8,11 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=4F7942&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ajinendra+Rajpoot;aka+Azzi;Welcome+to+my+profile!;Description+of+myself%3A;MOBAPP+Developer,;Flutter+Developer,;Computer+Science+Student,;Game+Developer,;Engineer,;Active+Learner" alt="Typing SVG" /></a>
   </div>
   
-  <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ajinendra+Rajpoot.;MOBAPP+Developer,;Flutter+Developer,;Computer+Science+Student,;Game+Developer,;Engineer,;Active+Learner"></a> -->
+ <!-- <p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ajinendra+Rajpoot.;MOBAPP+Developer,;Flutter+Developer,;Computer+Science+Student,;Game+Developer,;Engineer,;Active+Learner"></a> 
      <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</p>
+</p> -->
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/ajinendra05/ajinendra05)](https:braydoncoyer.dev) -->
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ajinendra05)

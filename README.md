@@ -31,8 +31,8 @@ or <a href="mailto:ajinendra05@gmail.com"><b>email</b></a> me
 
 </div>
 <br>
-Take a peek at 
-<a href="https://ajinendra05.42web.io/"><b>My Portfolio</b></a>
+<!-- Take a peek at 
+<a href="https://ajinendra05.42web.io/"><b>My Portfolio</b></a> -->
 
 <br>
 <br>
@@ -54,9 +54,8 @@ Take a peek at
 <br>   
  -->
 
-## &#x1f4c8; GitHub Stats
 
-<br>
+<!-- <br>
 
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinendra05&hide=javascript,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -64,10 +63,7 @@ Take a peek at
 
 <!-- <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ajinendra05&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" /> -->
-</a>
 
-<br>
-<br>
 
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinendra05&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>

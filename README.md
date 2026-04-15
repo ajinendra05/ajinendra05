@@ -23,7 +23,7 @@
 <div align="center">
 
 Connecting the dots and crafting digital wonders! <br>
-Application developer with a passion for building meaningful connections through code. Let's collaborate and turn ideas into reality. <br>
+software engineer with a passion for building meaningful connections through code. Let's collaborate and turn ideas into reality. <br>
 Ask me anything <a href="https://github.com/ajinendra05/ajinendra05/issues/new"><b>here</b></a><br>
 or <a href="mailto:ajinendra05@gmail.com"><b>email</b></a> me
 
